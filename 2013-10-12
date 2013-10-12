@@ -1,6 +1,6 @@
 Last week, we did our first project. I learned how to use Ipython notebook to do presentation. 
 I had lots rodeblocks during this project. 
-**One big improvement is learned how to use github markdown.**
+**One big rodeblocks is how to use github markdown.**
 1. ##Headers
 ```###Project```
 2.## Emphasis
@@ -16,3 +16,5 @@ Inline-style:
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 5.##Code and Syntax Highlighting
 Inline `code` has `back-ticks around` it.
+
+I will come back to fix it.

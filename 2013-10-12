@@ -1,0 +1,18 @@
+Last week, we did our first project. I learned how to use Ipython notebook to do presentation. 
+I had lots rodeblocks during this project. 
+**One big improvement is learned how to use github markdown.**
+1. ##Headers
+```###Project```
+2.## Emphasis
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough uses two tildes. ~~Scratch this.~~
+3.##Links
+[I'm an inline-style link](https://www.google.com)
+4.##Images
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+5.##Code and Syntax Highlighting
+Inline `code` has `back-ticks around` it.

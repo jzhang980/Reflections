@@ -7,10 +7,10 @@ I accomplished the following task:
 1.Hunting earthquake data, find the elevent papers
 
 2.We wrote a IPython [notebook](https://github.com/stat157/data-curators/blob/master/Harvard%20CMT.ipynb) 
-(which also generated a [script](https://github.com/stat157/data-curators/blob/master/Harvard%20CMT.py) )
+(which also generated a [script](https://github.com/stat157/data-curators/blob/master/Harvard%20CMT.py) ) 
 which will download the [gzip](http://en.wikipedia.org/wiki/Gzip) compressed [ndk-formatted data]
-(http://www.ldeo.columbia.edu/~gcmt/projects/CMT/catalog/allorder.ndk_explained) 
-of the [full data set](http://www.ldeo.columbia.edu/~gcmt/projects/CMT/catalog/jan76_dec10.ndk.gz) 
+(http://www.ldeo.columbia.edu/~gcmt/projects/CMT/catalog/allorder.ndk_explained) of 
+the [full data set](http://www.ldeo.columbia.edu/~gcmt/projects/CMT/catalog/jan76_dec10.ndk.gz) 
 from the [CMT Catalog files page](http://www.globalcmt.org/CMTfiles.html) at http://www.globalcmt.org/
 
 3.I did do the same for the SCEC data: http://www.one-tab.com/page/EBoWiHe1TF-kOU1G1knTBg

@@ -1,0 +1,17 @@
+Last week, I learned a lot from office hour. It's very benifical for going to office hour. I consider myself learning 
+slow because I hate read a book or instructions. I learn from talking and hand to hand learning. I don't mind spend more 
+hours to learn but it is very very slow and unefficient for selflearning. So I am very appriciated Aaron spend so many 
+hours on teaching me. Regardless what I can't do, I putted more effort on what I can do and what I could do. Last week, 
+I accomplished the following task:
+
+1.Hunting earthquake data, find the elevent papers
+
+2.We wrote a IPython notebook (which also generated a script ) which will download the gzip compressed ndk-formatted 
+data of the full data set from the CMT Catalog files page at http://www.globalcmt.org/
+
+3.I did the same for the SCEC data: http://www.one-tab.com/page/EBoWiHe1TF-kOU1G1knTBg (as shared with http://www.one-tab.com/) 
+which is in a gzip-compressed tarball
+
+Roadblocks:
+
+1. 

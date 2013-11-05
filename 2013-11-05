@@ -15,29 +15,31 @@ data of the full data set from the CMT Catalog files page at http://www.globalcm
 
 Roadblocks:
 
-1. Once I open an Ipython notebook under dirctor A, always goes that dirctor even if I want to open another 
-Ipython notebook under other dirctor. **Easiest way**: turn off the virtual machine than turn it on again. 
+1. Once I open an Ipython notebook under dirctor A, always goes that dirctor even if I want to open another
+
+Ipython notebook under other dirctor. ##Easiest way: turn off the virtual machine than turn it on again. 
 
 2. How can I get the update github repo?
+
    command **git pull**
    
 3. After I make a new ipython note book, How can I git push to github?
-  ...git add XX.ipynb
-  ...git commit -m 'add XX notebook'
-  ...git confit --global user.email ".....@gmail.com"
-  ...git config --global user.name "XXXX"
-  ...git status
-  ...git push
+...git add XX.ipynb
+...git commit -m 'add XX notebook'
+...git confit --global user.email ".....@gmail.com"
+...git config --global user.name "XXXX"
+...git status
+...git push
   
 4.Also I learned a lots keyboard shotcuts:
  
-  ...Ctrl+c ----cancel program
-  ...Ctrl+z ----stop program
-  ...jobs   ----list jobs in shell (check running and stop program)
-  ...fg/bg  ----sent program to front or back
-  ...Alt+Tab----shell comes up
-  ...Shit+Tab---remove indentation
-  ...Ctrl+Enter-run cell
-  ...Ctrl+s ---save
+...Ctrl+c ----cancel program
+...Ctrl+z ----stop program
+...jobs   ----list jobs in shell (check running and stop program)
+...fg/bg  ----sent program to front or back
+...Alt+Tab----shell comes up
+...Shit+Tab---remove indentation
+...Ctrl+Enter-run cell
+...Ctrl+s ---save
    
    
